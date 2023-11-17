@@ -1,0 +1,14 @@
+1. Explaining what AA (Adversarial Attacks) is in general
+(including the data it is used on and so on).
+2. Showing and explaining an example of AA on an image.
+3. Explaining what white and black box attacks are,
+including examples of them.
+4. Explaining how FGSM (Fast Gradient Sign Method) and PGD
+(Projected Gradient Descent) attacks work (without in-depth math).
+5. Explaining how Adversarial Training works (without in-depth math),
+and showing an image for accuracy comparisons.
+6. If time permits, explaining how Adversarial Retraining works
+(referencing N. Carlini and D. Wagner, “Adversarial examples are not
+easily detected: Bypassing ten detection methods,” in Proceedings of
+the 10th ACM Workshop on Artificial Intelligence and Security, 2017, pp. 3–14).
+7. Concluding and providing relevant links.
